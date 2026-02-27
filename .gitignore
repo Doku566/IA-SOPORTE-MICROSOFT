@@ -1,0 +1,27 @@
+# General
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+data/*.db
+data/*.sqlite3
+
+# VS Code
+.vscode/
+.history/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+view_inbox.txt
+view_tickets.txt
+reset_error_full.txt
