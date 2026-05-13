@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-# URL del Demonio de Ollama local (Aislado de internet)
+# URL del Domonio de Ollama local (Aislado de internet)
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 
 def classify_intent(text):
