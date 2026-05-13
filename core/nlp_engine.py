@@ -6,19 +6,23 @@ import os
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 
 def classify_intent(text):
-    """Clasificador Zero-Shot con modelo local Phi-3 (NLP)."""
-    # IMPORTANTE: El System Prompt DEBE identificar al asistente como institucional.
-    # Usar un contexto incorrecto (ej. "empresa de software") provoca clasificaciones
-    # erroneas cuando el LLM entra en conflicto con el RAG.
+    """Zero-shot email classifier using local Phi-3 model.
+    
+    The system prompt must explicitly define the institutional context.
+    A generic or incorrect context causes the LLM to conflict with the
+    RAG knowledge base and produce misclassified responses.
+    """
     prompt = f"""
-    Eres un asistente tecnico institucional de la Universidad Tecnologica de Matamoros (UTM).
-    Tu unico contexto es el soporte tecnico universitario: contrasenas, inscripciones, correo
-    institucional y tramites escolares. No tienes conocimiento ni autoridad fuera de este ambito.
-    Analiza el siguiente correo y clasificalo en: 'PASSWORD_RESET', 'INFORMACION', 'ANOMALIA', 'IGNORAR'.
-    Responde ESTRICTAMENTE en formato JSON:
-    {{"intencion": "CATEGORIA", "resumen": "Breve resumen"}}
+    You are a technical support assistant for an educational institution.
+    Your only context is institutional IT support: account access, enrollment,
+    email accounts, and administrative procedures. You have no knowledge or
+    authority outside this scope.
+    Classify the following email into exactly one category:
+    'PASSWORD_RESET', 'INFORMACION', 'ANOMALIA', or 'IGNORAR'.
+    Respond STRICTLY in valid JSON format:
+    {{"intencion": "CATEGORY", "resumen": "Brief summary"}}
 
-    Correo:
+    Email:
     \"\"\"{text}\"\"\"
     """
     
@@ -33,22 +37,35 @@ def classify_intent(text):
         if response.status_code == 200:
             return json.loads(response.json().get("response", "{}"))
     except Exception as e:
-        print(f"Error AI: {e}")
-    return {"intencion": "INFORMACION", "resumen": "Fallback de seguridad"}
+        print(f"Inference error: {e}")
+    return {"intencion": "INFORMACION", "resumen": "Safety fallback"}
 
 def get_kb_response(query):
-    """Generación de respuestas con arquitectura RAG (Retrieval-Augmented Generation)."""
-    kb_content = "Corpus de Conocimiento de UTM..." # En producción, lee de knowledge_base.txt
+    """RAG response generation using a plain-text knowledge base.
+    
+    Limitation: The full corpus is injected into the prompt. As the knowledge
+    base grows, this approach increases latency and may exceed the model's
+    context window. Migrating to ChromaDB or FAISS for semantic retrieval
+    is recommended once the corpus exceeds a few hundred entries.
+    """
+    # In production: read from knowledge_base.txt
+    try:
+        with open("../data/knowledge_base.txt", "r", encoding="utf-8") as f:
+            kb_content = f.read()
+    except FileNotFoundError:
+        kb_content = "Knowledge base not found."
     
     prompt = f"""
-    Eres el asistente oficial de Soporte UTM. 
-    Responde estrictamente usando la BASE DE CONOCIMIENTOS. 
-    Si la información solicitada no existe, responde: "No cuento con esa información específica".
-    
-    BASE DE CONOCIMIENTOS:
+    You are the official support assistant for an educational institution.
+    Answer using ONLY the information in the KNOWLEDGE BASE below.
+    If the answer is not in the knowledge base, respond exactly:
+    "I don't have that specific information."
+    Do not invent dates, costs, or procedures.
+
+    KNOWLEDGE BASE:
     {kb_content}
-    
-    DUDA DEL ESTUDIANTE:
+
+    STUDENT QUESTION:
     {query}
     """
     payload = {
@@ -56,11 +73,11 @@ def get_kb_response(query):
         "prompt": prompt,
         "stream": False,
         "options": {
-            "temperature": 0.05 # Límite determinista estricto para evitar alucinaciones
-        } 
+            "temperature": 0.05  # Keep deterministic to prevent hallucinations
+        }
     }
     try:
         response = requests.post(OLLAMA_URL, json=payload)
-        return response.json().get("response", "Lo siento, ocurrió un error en la inferencia.")
+        return response.json().get("response", "Inference error.")
     except:
-        return "Error de conexión con el motor cognitivo."
+        return "Could not connect to the local inference engine."
