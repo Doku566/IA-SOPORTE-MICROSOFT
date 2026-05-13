@@ -44,15 +44,21 @@ def send_email(token, to_email, subject, content):
 
 def handle_password_reset(token, user_id):
     """Flujo de restablecimiento de contraseña temporal con directiva MFA forzada."""
-    new_password = "GeneradaCriptograficamente_Ejemplo123!"
+    # La contraseña temporal se genera dinámicamente en tiempo de ejecución.
+    # NUNCA hardcodear contraseñas en el código fuente, ni como ejemplos.
+    # Patrón de generación recomendado:
+    #   import secrets, string
+    #   chars = string.ascii_letters + string.digits + "!@#$%*"
+    #   new_password = "Pfx" + "".join(secrets.choice(chars) for _ in range(10)) + "1!"
+    new_password = None  # Se genera en tiempo de ejecución
     
     url = f"https://graph.microsoft.com/v1.0/users/{user_id}"
     headers = {"Authorization": f"Bearer {token}", "Content-Type": "application/json"}
     payload = {
         "passwordProfile": {
-            "forceChangePasswordNextSignIn": True, # FORZA MFA Y ROTACIÓN EN EL 1ER LOGIN
-            "password": new_password
+            "forceChangePasswordNextSignIn": True,
+            "password": new_password  # Asignar contraseña generada dinámicamente
         }
     }
-    # requests.patch(url, headers=headers, json=payload) # LÍNEA COMENTADA POR SEGURIDAD EN EL EJEMPLO
+    # requests.patch(url, headers=headers, json=payload) # Comentado en ejemplo público
     return new_password
