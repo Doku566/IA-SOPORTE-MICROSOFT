@@ -1,12 +1,4 @@
-# Documentación Técnica y Operativa: Motor de Soporte IA UTM
-
-<div align="center">
-  <b>Universidad Tecnológica de Matamoros</b><br>
-  <i>Departamento de Sistemas</i><br>
-  <b>Autor:</b> Domingo González Hernández<br>
-  <b>Fecha:</b> Mayo 2026
-</div>
-
+# Documentación Técnica y Operativa: Motor de Soporte IA
 ---
 
 ## 1. Resumen Ejecutivo
@@ -30,7 +22,7 @@ pie title "Distribución Histórica de Tickets Resueltos por el Motor IA"
 Por políticas de seguridad de la información, se omite la estructura absoluta del entorno de producción. A continuación, se expone la topología genérica estandarizada que rige la arquitectura del repositorio:
 
 ```text
-UTM-Soporte-IA/
+Soporte-IA/
 ├── core/
 │   ├── orchestrator.py      # Ciclo principal de orquestación y evaluación
 │   ├── m365_api.py          # Interacciones con MS Graph (OAuth 2.0 / PATCH)
@@ -265,7 +257,7 @@ ADMIN_EMAIL=[CORREO_ADMIN_OCULTO]
 
 ```python
 prompt = f"""
-Usted es un sistema experto de soporte técnico de la Universidad Tecnológica de Matamoros (UTM).
+Usted es un sistema experto de soporte técnico de una empresa dedicada a la venta de productos o licencias de Software).
 Analice el contenido del mensaje y clasifíquelo exclusivamente en una de las siguientes categorías:
 1. 'PASSWORD_RESET'
 2. 'INFORMACION'
@@ -285,7 +277,7 @@ El servicio está configurado para su ejecución ininterrumpida como un proceso 
 
 ```bash
 # Secuencia de inicialización del entorno
-cd UTM_Soporte_IA
+cd Soporte_IA
 source venv/bin/activate
 python -u orchestrator.py
 ```
@@ -294,4 +286,4 @@ python -u orchestrator.py
 
 ## 13. Conclusión
 
-El **Motor de Soporte IA UTM** constituye una modernización crítica en la arquitectura de servicios de TI de la Universidad Tecnológica de Matamoros. La convergencia de modelos de lenguaje de ejecución local con las APIs de Microsoft 365 ha optimizado sustancialmente los SLAs del departamento. Este desarrollo no solo reduce la carga operativa, sino que garantiza una atención técnica segura, auditable y escalable para la comunidad estudiantil, consolidando la posición tecnológica de la institución.
+El **Motor de Soporte IA ** constituye una modernización crítica en la arquitectura de servicios de TI de la Universidad Tecnológica de Matamoros. La convergencia de modelos de lenguaje de ejecución local con las APIs de Microsoft 365 ha optimizado sustancialmente los SLAs del departamento. Este desarrollo no solo reduce la carga operativa, sino que garantiza una atención técnica segura, auditable y escalable para la comunidad estudiantil, consolidando la posición tecnológica de la institución.
