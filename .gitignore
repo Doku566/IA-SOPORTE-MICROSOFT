@@ -1,0 +1,45 @@
+# === ARCHIVOS SENSIBLES - NUNCA RASTREAR ===
+.env
+*.env
+.env.*
+
+# === BASE DE DATOS ===
+*.db
+*.sqlite
+*.sqlite3
+
+# === RESPALDOS Y DATOS ===
+Respaldos/
+*.json
+*.csv
+*.xlsx
+
+# === CACHÉ Y COMPILADOS PYTHON ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# === ENTORNOS VIRTUALES ===
+venv/
+env/
+.venv/
+
+# === LOGS ===
+*.log
+
+# === DOCUMENTACION GENERADA ===
+*.pdf
+*.html
+
+# === TEMPORALES ===
+*.tmp
+*.bak
+~$*
+
+# === IDE ===
+.vscode/
+.idea/
+*.suo

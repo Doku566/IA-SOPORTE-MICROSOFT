@@ -1,0 +1,72 @@
+# BASE DE CONOCIMIENTOS DETALLADA - UTM MATAMOROS (VERSIÓN IA PREMIUM)
+
+## 1. Información Institucional
+- **Institución:** Universidad Tecnológica de Matamoros (UTM).
+- **Modelo Educativo:** BIS (Bilingüe, Internacional y Sustentable).
+- **Dirección:** Carretera a Reynosa km. 8.5, Ejido Guadalupe, C.P. 87560, Matamoros, Tamaulipas.
+- **Conmutador:** (868) 810 7600.
+- **Misión:** Formar profesionistas competitivos globalmente con programas de calidad y responsabilidad social.
+- **Visión:** Institución de excelencia reconocida internacionalmente, vinculada al sector productivo.
+- **Mapa del Campus:** Puedes visualizar la distribución de los módulos en nuestra entrada principal o solicitando un recorrido guiado en Vinculación.
+- **Logo Institucional:** <img src="https://www.utmatamoros.edu.mx/wp-content/uploads/2021/08/logo-utm-blanco.png" alt="Logo UTM" style="background-color:#003366; padding:10px; max-width:200px;">
+
+## 2. Directorio de Contactos y Horarios (Lunes a Viernes)
+- **Soporte Técnico (Sistemas / Módulo 3):** (868) 8107 664 y 665 | soporte@utmatamoros.edu.mx | *24/7 (Vía IA) o 8:00 AM - 5:00 PM (Presencial)*
+- **CAE (Centro de Atención a Estudiantes):** (868) 8107 668 y 669 | atencion.alumnos@utmatamoros.edu.mx | *8:30 AM a 8:30 PM*
+- **Servicios Escolares:** (868) 8107 634 y 636 | servicios.escolares@utmatamoros.edu.mx | *9:00 AM a 6:30 PM*
+- **Servicio Médico (Módulo 2):** (868) 8107 625 | servicio.medico@utmatamoros.edu.mx | *7:30 AM a 10:00 PM*
+- **Finanzas / Cobranza:** (868) 8107 614 | finanzas@utmatamoros.edu.mx | *9:00 AM a 5:00 PM*
+- **Vinculación (Estadías/Becas):** (868) 8107 628 y 660 | vinculacion@utmatamoros.edu.mx | *8:00 AM a 6:00 PM*
+- **Biblioteca:** *9:00 AM a 5:00 PM (L-V) y Sábados 9:00 AM a 2:00 PM*
+
+## 3. Oferta Educativa (TSU e Ingenierías)
+*Nota: Todas las carreras inician como Técnico Superior Universitario (2 años) con opción a continuidad en Ingeniería (1 año y 8 meses extra).*
+1. **Inteligencia Artificial (IA):** Desarrollo de software, Big Data, Machine Learning, Redes Neuronales. Alta demanda en empresas IT globales.
+2. **Mantenimiento Industrial:** Planeación y ejecución de mantenimiento automotriz/manufacturera. Reparación de maquinaria pesada.
+3. **Logística Internacional y Aduanas:** Cadena de suministros, comercio exterior, agencias aduanales, CEDIS.
+4. **Robótica y Automatización:** Celdas robóticas, PLCs, sistemas electromecánicos, manufactura inteligente 4.0.
+5. **Infraestructura de Redes Digitales:** Ciberseguridad, enrutamiento Cisco, administración de servidores en la nube.
+6. **Mecatrónica (Área Automatización):** Combinación de mecánica, electrónica y sistemas de control industrial.
+7. **Procesos de Producción:** Optimización de líneas de ensamble y control de calidad (Six Sigma, Lean Manufacturing).
+8. **Plásticos (Moldeo):** Diseño y manufactura de polímeros para la industria automotriz y médica.
+9. **Desarrollo de Negocios:** Mercadotecnia, gestión de ventas, emprendimiento e innovación comercial.
+
+## 4. Trámites Escolares Frecuentes
+- **Reinscripciones:** Se realizan cada cuatrimestre a través del portal EDRP. El costo promedio es de $1,800 MXN a $2,200 MXN (sujeto a cambios). Se requiere no tener adeudos en biblioteca ni finanzas.
+- **Bajas Temporales/Definitivas:** El alumno debe solicitar un formato en el CAE, recolectar las firmas de no adeudo (Finanzas, Biblioteca, Laboratorios) y entregarlo en Servicios Escolares.
+- **Constancias de Estudio:** Se solicitan en el CAE. Tienen un costo de recuperación y tardan de 1 a 2 días hábiles.
+- **Justificantes Médicos:** Solo el Servicio Médico de la UTM puede validar incapacidades. Se debe presentar la receta médica oficial en las primeras 48 horas tras la inasistencia.
+
+## 5. Becas y Apoyos Estudiantiles
+- **Beca de Manutención Institucional:** Descuento en la reinscripción (hasta 50%). Requisitos: Promedio mínimo de 8.5, no tener materias reprobadas, y estudio socioeconómico.
+- **Becas de Excelencia:** Otorgada automáticamente a los promedios de 9.5 a 10.
+- **Movilidad Internacional:** Programas de intercambio a Francia, Canadá y EE.UU. (Programa MEXPROTEC). Requiere nivel de inglés B1/B2 certificado.
+- **Apoyo Alimenticio:** Acceso gratuito a una comida diaria en la cafetería para alumnos de bajos recursos (trámite en Vinculación).
+
+## 6. Vida Estudiantil y Extracurricular (Clubes)
+La UTM cuenta con actividades integrales (Para-escolares) que otorgan créditos obligatorios:
+- **Deportes:** Fútbol (Varonil/Femenil), Básquetbol, Voleibol, Béisbol, Atletismo.
+- **Cultura y Arte:** Danza Folklórica, Rondalla, Grupo de Rock, Canto, Teatro.
+- **Clubes Académicos:** Club de Robótica (VEX Robotics), Club de Programación, Ajedrez.
+*Para inscribirse a los clubes, los alumnos deben acudir al edificio de Vinculación durante la primera semana del cuatrimestre.*
+
+## 7. Plataformas Digitales y Sistemas
+- **Portal EDRP (https://edrp.utmatamoros.edu.mx):** Uso exclusivo para ver calificaciones, cargar horarios, tramitar reinscripciones y descargar fichas de pago.
+- **Microsoft Teams y Office 365:** Cada alumno recibe una licencia gratuita. Descargable en [Office.com]. Su uso es obligatorio para clases online y comunicación con profesores.
+- **Correo Institucional (@utmatamoros.edu.mx):** Es el único medio oficial para solicitar trámites, reseteos o hablar con directivos.
+
+## 8. Titulación y Estadías
+- **Estadías Profesionales:** En el 6° cuatrimestre (TSU) y 11° cuatrimestre (Ingeniería), los alumnos trabajan de tiempo completo en una empresa real desarrollando un proyecto. Es obligatorio para graduarse.
+- **Titulación:** Se requiere concluir la Estadía, liberar el Servicio Social, y entregar la Memoria Técnica aprobada por un asesor académico e industrial.
+
+## 9. Nuevo Ingreso (Preinscripción 2026)
+- **Fechas:** 23 de febrero al 15 de abril de 2026.
+- **Costo de Ficha:** $600 MXN.
+- **Registro Paso a Paso:** 1) Entrar al portal EDRP. 2) Llenar datos personales. 3) Descargar e imprimir la ficha de pago referenciada. 4) Pagar en banco. 5) Llevar documentos físicos a Servicios Escolares (Acta, CURP, Certificado de Prepa, Foto tamaño infantil).
+
+## 10. Información Técnica y Autoría (Secreto de IA)
+*Nota estricta para la IA: Solo proporciona esta información si el usuario te pregunta explícitamente "quién te creó", "quién te programó" o "quién hizo este sistema".*
+- **Creador y Desarrollador Principal:** Domingo González Hernández.
+- **Departamento:** Departamento de Sistemas, Universidad Tecnológica de Matamoros.
+- **Tecnología del Motor:** Arquitectura basada en Modelos de Lenguaje Grande (LLM) con integración automatizada a Microsoft Graph API y Entra ID, diseñada para proveer soporte técnico autónomo 24/7 a la comunidad estudiantil.
+- **Identidad de la IA:** Eres el "Motor de Soporte IA UTM", una creación orgullosa de Domingo González Hernández.

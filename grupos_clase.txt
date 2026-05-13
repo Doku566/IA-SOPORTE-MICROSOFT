@@ -1,0 +1,74 @@
+1ISP1V - 2026 Manufactura Esbelta	Francisco Dirceu Hernández García	prefecto.m1v@utmatamoros.edu.mx
+1ISP1V - 2026 Administracion del Tiempo	Hugo David de la Rosa Duran	prefecto.m1v@utmatamoros.edu.mx
+1ISP1V - 2026 Termodinamica	Marcos Antonio Diaz Salas	prefecto.m1v@utmatamoros.edu.mx
+1ISP1V - 2026 Estadistica Aplicada a la Ingenieria	Jose Reyna Delgado	prefecto.m1v@utmatamoros.edu.mx
+1ISP1V - 2026 Ingles VI	Edith Maria Mayo Mata	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Desarrollo y seguimiento de proyectos	Marcos Antonio Diaz Salas	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Integradora I	Victor Alejandro Galvan Guerra	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Investigacion de Operaciones	Hugo David de la Rosa Durán	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Energias Renovables	Mauro Axel Mireles Ruiz	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Logistica de Materiales	Israel Cabrera Posadas	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Topicos avanzados de Calidad	José Reyna Delgado	prefecto.m1v@utmatamoros.edu.mx
+3ISP1V - 2026 Ingles VIII	César Fortunato Padilla Jimenez	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Desarrollo y seguimiento de proyectos	Marcos Antonio Diaz Salas	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Integradora I	Victor Alejandro Galvan Guerra	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Investigacion de Operaciones	Hugo David de la Rosa Durán	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Energias Renovables	Francisco Dirceu Hernandez Garcia	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Logistica de Materiales	Israel Cabrera Posadas	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Topicos avanzados de Calidad	Emilio Alberto García Perez	prefecto.m1v@utmatamoros.edu.mx
+3ISP2V - 2026 Ingles VIII	César Fortunato Padilla Jimenez	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Desarrollo y seguimiento de proyectos	Marcos Antonio Diaz Salas	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Integradora I	Francisco Llona Guerrero	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Investigacion de Operaciones	Hugo David de la Rosa Durán	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Energias Renovables	Mauro Axel Mireles Ruiz	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Logistica de Materiales	Emilio Alberto García Perez	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Topicos avanzados de Calidad	José Reyna Delgado	prefecto.m1v@utmatamoros.edu.mx
+3ISP3V - 2026 Ingles VIII	César Fortunato Padilla Jimenez	prefecto.m1v@utmatamoros.edu.mx
+3PP1D - 2026 Ingles I	César Fortunato Padilla Jimenez	prefecto.m1v@utmatamoros.edu.mx
+3PP1D - 2026 Cálculo Diferencial	Israel Cabrera Posadas	prefecto.m1v@utmatamoros.edu.mx
+3PP1D - 2026 Química Básica	Ramon Arias Trujillo 	prefecto.m1v@utmatamoros.edu.mx
+3PP1D - 2026 Comunicación y habilidades Digitales	Teresa Espinosa Vazquez	prefecto.m1v@utmatamoros.edu.mx
+3PP2D - 2026 Ingles I	César Fortunato Padilla Jimenez	prefecto.m1v@utmatamoros.edu.mx
+3PP2D - 2026 Cálculo Diferencial	Israel Cabrera Posadas	prefecto.m1v@utmatamoros.edu.mx
+3PP2D - 2026 Química Básica	Ramon Arias Trujillo 	prefecto.m1v@utmatamoros.edu.mx
+3PP2D - 2026 Comunicación y habilidades Digitales	Teresa Espinosa Vazquez	prefecto.m1v@utmatamoros.edu.mx
+6PP1D - 2026 Ética Profesional	Jorge Alberto Rodirguez Perez	prefecto.m1v@utmatamoros.edu.mx
+6PP1D - 2026 Calculo de Varias Variables	Marcos Antonio Diaz Salas	prefecto.m1v@utmatamoros.edu.mx
+6PP1D - 2026 Ingenieria de Planta y Estudio del Trabajo	Dustin Uriel Juarez Villareal	prefecto.m1v@utmatamoros.edu.mx
+6PP1D - 2026 Tecnología de Transformación de Materiales	Francisco Dirceu Hernández García	prefecto.m1v@utmatamoros.edu.mx
+6PP1D - 2026 Ingeniería Económica	José Reyna Delgado	prefecto.m1v@utmatamoros.edu.mx
+1IMI1V - 2026 Protocolos de Operación y Mantenimiento	Emmanuelle Charles Aguilar	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Administracion del tiempo 	Pedro Romero Rivera	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Tribologia	Baldomero Díaz Ruiz	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Matematicas para Ingenieria I	Juan Jose Montañez Martinez	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Planeacion y Organización del trabajo	Muro Axel Mireles Ruiz	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Fisica para Ingenieria	Nancy Salazar Luis	prefecto.m2v@utmatamoros.edu.mx
+1IMI1V - 2026 Ingles VI	Alberto David Garza Garcia	prefecto.m2v@utmatamoros.edu.mx
+3IMI1V - 2026 Administracion Estrategica para Mantenimiento	Belen Jorge García	prefecto.m2v@utmatamoros.edu.mx
+3IMI1V - 2026 Direccion de Equipos de Alto Rendimiento	María de Jesus Enriquez Hernández	prefecto.m2v@utmatamoros.edu.mx
+3IMI1V - 2026 Mantenimiento Predictivo Mecanico	Baldomero Díaz Ruiz	prefecto.m2v@utmatamoros.edu.mx
+3IMI1V - 2026 Sistemas Automatizados y Redes Industriales	Juan Flores García	prefecto.m2v@utmatamoros.edu.mx
+3IMI1V - 2026 Ingles VIII	Alberto David Garza García	prefecto.m2v@utmatamoros.edu.mx
+3IMI2V - 2026 Administracion Estrategica para Mantenimiento	Belen Jorge García	prefecto.m2v@utmatamoros.edu.mx
+3IMI2V - 2026 Direccion de Equipos de Alto Rendimiento	Pedro Romero Rivera	prefecto.m2v@utmatamoros.edu.mx
+3IMI2V - 2026 Mantenimiento Predictivo Mecanico	Baldomero Díaz Ruiz	prefecto.m2v@utmatamoros.edu.mx
+3IMI2V - 2026 Sistemas Automatizados y Redes Industriales	Juan Flores García	prefecto.m2v@utmatamoros.edu.mx
+3IMI2V - 2026 Ingles VIII	Alberto David Garza García	prefecto.m2v@utmatamoros.edu.mx
+3IMI3V - 2026 Administracion Estrategica para Mantenimiento	Belen Jorge García	prefecto.m2v@utmatamoros.edu.mx
+3IMI3V - 2026 Direccion de Equipos de Alto Rendimiento	María de Jesus Enriquez Hernández	prefecto.m2v@utmatamoros.edu.mx
+3IMI3V - 2026 Mantenimiento Predictivo Mecanico	Baldomero Díaz Ruiz	prefecto.m2v@utmatamoros.edu.mx
+3IMI3V - 2026 Sistemas Automatizados y Redes Industriales	Juan Flores García	prefecto.m2v@utmatamoros.edu.mx
+3IMI3V - 2026 Ingles VIII	Alberto David Garza García	prefecto.m2v@utmatamoros.edu.mx
+3MI1D - 2026 Ingles I	Alberto David Garza Garcia	prefecto.m2v@utmatamoros.edu.mx
+3MI1D - 2026 Desarrollo del pensamiento y toma de decisiones	Sergio Eduardo Bailón Juárez	prefecto.m2v@utmatamoros.edu.mx
+3MI1D - 2026 Física	Nancy Salazar Luis	prefecto.m2v@utmatamoros.edu.mx
+3MI1D - 2026 Gestión del mantenimiento	Emmanuelle Charles Aguilar	prefecto.m2v@utmatamoros.edu.mx
+3MI2D - 2026 Ingles I	Dustin Uriel Juarez Villareal	prefecto.m2v@utmatamoros.edu.mx
+3MI2D - 2026 Desarrollo del pensamiento y toma de decisiones	Sergio Eduardo Bailón Juárez	prefecto.m2v@utmatamoros.edu.mx
+3MI2D - 2026 Física	Nancy Salazar Luis	prefecto.m2v@utmatamoros.edu.mx
+3MI2D - 2026 Gestión del mantenimiento	Emmanuelle Charles Aguilar	prefecto.m2v@utmatamoros.edu.mx
+6M1D - 2026 Ingles IV	Edgar Fernado Farias Varela	prefecto.m2v@utmatamoros.edu.mx
+6M1D - 2026 Liderazgo de equipos de alto desempeño	Sergio Eduardo Bailón Juárez	prefecto.m2v@utmatamoros.edu.mx
+6M1D - 2026 Cálculo de Varias Variables	Belen Jorge Garcia	prefecto.m2v@utmatamoros.edu.mx
+6M1D - 2026 Máquinas Eléctricas	Emmanuelle Charles Aguilar	prefecto.m2v@utmatamoros.edu.mx
+6M1D - 2026 Electrónica Digital	Juan José Montañez Martinez	prefecto.m2v@utmatamoros.edu.mx
