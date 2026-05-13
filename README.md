@@ -1,7 +1,7 @@
 # Documentación Técnica y Operativa: Motor de Soporte IA
 ---
 
-## 1. Resumen Ejecutivo
+## 1. Resumen
 
 El **Motor de Soporte IA UTM** es un sistema orquestador automatizado y cognitivo desarrollado en Python. Su objetivo principal es la gestión, clasificación y resolución autónoma de incidentes de soporte técnico de nivel 1 en la Universidad Tecnológica de Matamoros (UTM). 
 
@@ -42,7 +42,7 @@ Soporte-IA/
 
 ---
 
-## 3. Impacto Operativo
+## 3. Impacto 
 
 La implementación del sistema ha estabilizado los flujos de trabajo en áreas críticas de la institución:
 
