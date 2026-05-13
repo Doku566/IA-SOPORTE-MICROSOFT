@@ -1,0 +1,3 @@
+data/*.db
+config/.env
+__pycache__/

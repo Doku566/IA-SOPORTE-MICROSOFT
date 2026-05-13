@@ -1,0 +1,3 @@
+@echo off
+echo Iniciando daemon de soporte IA...
+python core\orchestrator.py
