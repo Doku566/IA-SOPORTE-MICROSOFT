@@ -7,9 +7,14 @@ OLLAMA_URL = os.getenv("OLLAMA_URL", "http://127.0.0.1:11434/api/generate")
 
 def classify_intent(text):
     """Clasificador Zero-Shot con modelo local Phi-3 (NLP)."""
+    # IMPORTANTE: El System Prompt DEBE identificar al asistente como institucional.
+    # Usar un contexto incorrecto (ej. "empresa de software") provoca clasificaciones
+    # erroneas cuando el LLM entra en conflicto con el RAG.
     prompt = f"""
-    Eres un asistente técnico de la Universidad Tecnológica de Matamoros (UTM).
-    Analiza el siguiente correo y clasifícalo en: 'PASSWORD_RESET', 'INFORMACION', 'ANOMALIA', 'IGNORAR'.
+    Eres un asistente tecnico institucional de la Universidad Tecnologica de Matamoros (UTM).
+    Tu unico contexto es el soporte tecnico universitario: contrasenas, inscripciones, correo
+    institucional y tramites escolares. No tienes conocimiento ni autoridad fuera de este ambito.
+    Analiza el siguiente correo y clasificalo en: 'PASSWORD_RESET', 'INFORMACION', 'ANOMALIA', 'IGNORAR'.
     Responde ESTRICTAMENTE en formato JSON:
     {{"intencion": "CATEGORIA", "resumen": "Breve resumen"}}
 
