@@ -1,6 +1,6 @@
 # Motor de Soporte IA e Infraestructura Automatizada para Microsoft 365 y Graph API
 
-## Resumen Ejecutivo y Propósito de la Arquitectura
+
 
 El presente documento describe las especificaciones técnicas, arquitectura e instrucciones de despliegue del **Motor de Soporte IA e Infraestructura Automatizada**, una solución de asistencia técnica de Nivel 1 (Tier-1 IT Service Desk) desarrollada en lenguaje Python para entornos corporativos y universitarios basados en Microsoft 365 y Microsoft Entra ID (anteriormente Azure Active Directory).
 
