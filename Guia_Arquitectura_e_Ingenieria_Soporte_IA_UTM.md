@@ -193,15 +193,15 @@ import msal
 - `msal`: *Microsoft Authentication Library*. Es la librería oficial obligatoria para negociar el token OAuth 2.0 con Azure AD/Entra ID mediante el *Client Credentials Flow*.
 
 ```python
-CLIENT_ID = "b6a83626-d39d-4340-9a3b-179836e5223e"
-CLIENT_SECRET = "your_client_secret_here"
-TENANT_ID = "c65a3ea1-1698-4e63-8a3d-3b7c8449c471"
+CLIENT_ID = os.getenv("CLIENT_ID")
+CLIENT_SECRET = os.getenv("CLIENT_SECRET")
+TENANT_ID = os.getenv("TENANT_ID")
 AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 SCOPES = ["https://graph.microsoft.com/.default"]
-SOPORTE_EMAIL = "soporte-ia@utmatamoros.edu.mx"
-ADMIN_EMAIL = "admin.sistemas@utmatamoros.edu.mx"
-OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL_NAME = "llama3.2:3b"
+SOPORTE_EMAIL = os.getenv("SUPPORT_EMAIL")
+ADMIN_EMAIL = os.getenv("ADMIN_EMAIL")
+OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
+MODEL_NAME = os.getenv("MODEL_NAME", "llama3.2:3b")
 ```
 - `CLIENT_ID, CLIENT_SECRET, TENANT_ID`: Credenciales confidenciales del registro de aplicación de Azure Portal. Autorizan la conexión con permisos de lectura de correos (`Mail.ReadWrite`) y reseteo de contraseñas sobre estudiantes (`User.ReadWrite.All` acotado por Administrative Unit).
 - `SOPORTE_EMAIL`: El buzón oficial en donde los estudiantes envían sus solicitudes y sobre el cual el orquestador ejerce el monitoreo 24/7.
