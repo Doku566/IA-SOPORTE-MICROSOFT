@@ -1,18 +1,71 @@
-# === ARCHIVOS SENSIBLES - NUNCA RASTREAR ===
+# === ARCHIVOS SENSIBLES Y CREDENCIALES - NUNCA RASTREAR ===
 .env
 *.env
 .env.*
+!.env.template
 
-# === BASE DE DATOS ===
+# === BASES DE DATOS Y REGISTROS DE AUDITORÍA (DATOS DE USUARIOS) ===
 *.db
 *.sqlite
 *.sqlite3
+*.jsonl
+conversaciones_log.jsonl
+tickets.db
+soporte_utm.db
 
-# === RESPALDOS Y DATOS ===
+# === ARCHIVOS DE RESPALDO, LISTAS DE ALUMNOS Y CUARENTENA ===
 Respaldos/
 *.json
 *.csv
 *.xlsx
+*afectados*
+*cuarentena*
+*alumnos*
+*utm_reales*
+*resultados*
+*amena*
+*clases.txt
+detalles*.txt
+auth_test_results.txt
+debug*.txt
+log*.txt
+
+# === SCRIPTS TEMPORALES, POWER-SHELL Y DIAGNÓSTICOS INTERNOS ===
+*.ps1
+*maria*
+*kevin*
+*rectoria*
+*yadira*
+*rene*
+*sugerencias*
+buscar_*.py
+diagnostico_*.py
+test_*.py
+checar_*.py
+contar_*.py
+ver_*.py
+corregir_*.py
+liberar_*.py
+inspeccionar_*.py
+recuperar_*.py
+reenviar_*.py
+enviar_*.py
+!enviar_correo_manual.bat
+imprimir_cala*.py
+limpieza_hp*.py
+ejecutar_limpieza*.py
+debug*.py
+print_top9.py
+leer_detalles.py
+limpiar_*.py
+listar_carpetas.py
+revisar_fallas.py
+verificar_fwd.py
+analisis_completo_correos.py
+auditar_respuestas_24h.py
+hello.txt
+Prompt_Copilot_*.txt
+Informe_Incidente_*.md
 
 # === CACHÉ Y COMPILADOS PYTHON ===
 __pycache__/
@@ -30,14 +83,13 @@ env/
 # === LOGS ===
 *.log
 
-# === DOCUMENTACION GENERADA ===
+# === DOCUMENTACIÓN Y ARCHIVOS TEMPORALES NO RASTREADOS ===
 *.pdf
+*.pptx
 *.html
-
-# === TEMPORALES ===
+~$*
 *.tmp
 *.bak
-~$*
 
 # === IDE ===
 .vscode/
