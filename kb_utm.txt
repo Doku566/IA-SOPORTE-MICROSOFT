@@ -1,297 +1,132 @@
-# BASE DE CONOCIMIENTOS DETALLADA - UTM MATAMOROS (VERSIÓN IA PREMIUM)
+# BASE DE CONOCIMIENTOS OFICIAL Y SINTETIZADA - UTM MATAMOROS (VERSIÓN IA Y RAG OPTIMIZADA)
 
-## 1. Información Institucional
+## 1. INFORMACIÓN INSTITUCIONAL Y CAMPUS
 - **Institución:** Universidad Tecnológica de Matamoros (UTM).
-- **Tipo:** Institución pública de educación superior, parte del Sistema de Universidades Tecnológicas y Politécnicas de la SEP.
-- **Modelo Educativo:** BIS (Bilingüe, Internacional y Sustentable). Los estudiantes reciben formación práctica y por competencias, con una parte significativa de los cursos impartida en inglés, preparando profesionistas competitivos para un mercado globalizado.
-- **Sistema Académico:** Cuatrimestral (tres cuatrimestres por año: enero-abril, mayo-agosto, septiembre-diciembre).
+- **Modelo Educativo:** BIS (Bilingüe, Internacional y Sustentable). Carreras iniciadas como Técnico Superior Universitario (TSU, 2 años / 6 cuatrimestres) con continuidad obligatoria o libre a Ingeniería / Licenciatura (1 año y 8 meses extra / 5 cuatrimestres).
+- **Sistema Académico:** Cuatrimestral (enero-abril, mayo-agosto, septiembre-diciembre).
 - **Dirección:** Carretera a Reynosa km. 8.5, Ejido Guadalupe, C.P. 87560, Matamoros, Tamaulipas.
-- **Conmutador:** (868) 810 7600.
-- **Sitio Web Oficial:** https://www.utmatamoros.edu.mx
-- **Misión:** Formar profesionistas competitivos globalmente con programas de calidad y responsabilidad social.
-- **Visión:** Institución de excelencia reconocida internacionalmente, vinculada al sector productivo.
-- **Mapa del Campus:** Puedes visualizar la distribución de los módulos en nuestra entrada principal o solicitando un recorrido guiado en Vinculación.
-- **Logo Institucional:** <img src="https://www.utmatamoros.edu.mx/wp-content/uploads/2021/08/logo-utm-blanco.png" alt="Logo UTM" style="background-color:#003366; padding:10px; max-width:200px;">
+- **Conmutador:** (868) 810 7600 | **Sitio Web:** https://www.utmatamoros.edu.mx
+- **Acreditaciones de Calidad:** ISO 9001:2015, CACEI (Procesos Industriales y Mecatrónica), CACECA (Clasificación Arancelaria), CONAIC (Tecnologías de la Información). Todos los títulos tienen validez oficial SEP.
 
-## 2. Acreditaciones y Certificaciones de Calidad
-La UTM mantiene sus programas y sistemas de gestión bajo estándares de calidad evaluados por organismos externos:
-- **Certificación Institucional:** ISO 9001:2015 (Sistema de Gestión de Calidad).
-- **CACEI** (Consejo de Acreditación de la Enseñanza de la Ingeniería): Acredita programas como TSU en Procesos Industriales (Manufactura) y TSU en Mecatrónica (Automatización).
-- **CACECA** (Consejo de Acreditación en Contaduría y Administración): Acredita el TSU en Clasificación Arancelaria y Despacho Aduanero.
-- **CONAIC** (Consejo Nacional de Acreditación en Informática y Computación): Acredita el TSU en Tecnologías de la Información y Comunicación (Redes y Telecomunicaciones).
-- **Validez Oficial:** Al ser universidad pública, todos los programas tienen validez oficial por la SEP mediante decretos oficiales.
+## 2. DIRECTORIO OFICIAL, HORARIOS Y UBICACIONES POR MÓDULO (CONSOLIDADO ÚNICO)
+Todos los trámites oficiales deben realizarse o solicitarse desde el correo institucional del estudiante (`@utmatamoros.edu.mx`):
+- **Módulo 1 — Centro Administrativo y Servicios Escolares:**
+  - **Servicios Escolares (Planta Alta):** Clara Iveth Cantú Almanza / Lic. María de Jesús Lara | `servicios.escolares@utmatamoros.edu.mx` | (868) 810 7634 y Ext. 7636 | *Horario: Lunes a Viernes 9:00 AM a 6:30 PM*. (Trámites: Constancias de estudio, Historial/Kardex, Titulación, Inscripciones, Bajas y Reincorporaciones).
+  - **Finanzas / Cobranza (Planta Alta):** Lic. Luis Gámez | `finanzas@utmatamoros.edu.mx` | `cobranza@utmatamoros.edu.mx` | (868) 810 7614 | *Horario: 9:00 AM a 5:00 PM* (Venta de boletos de transporte: 10:00 AM a 2:00 PM).
+  - **Rectoría:** Mtra. Diana Rosa Masso Quintana | `rectoria@utmatamoros.edu.mx` | Tel directo: (868) 810 7610.
+  - **Servicios Administrativos:** Lic. Albino Hernández González | `servicios.administrativos@utmatamoros.edu.mx` | (868) 810 7616.
+  - **Abogado General:** Lic. Carlos Faustino González Maldonado | `abogado.general@utmatamoros.edu.mx` | *Horario: 9:00 AM a 5:00 PM*.
+- **Módulo 2 — Extensión Universitaria, Deporte, Cultura y Servicio Médico:**
+  - **Extensión Universitaria (Deportes/Cultura/Clubes):** Lic. Antonio Castañeda Pastor | `antonio.castañeda@utmatamoros.edu.mx` | Tels: (868) 810 7627 y 7622.
+  - **Servicio Médico:** Dra. Nissi Carrillo Sánchez | `servicio.medico@utmatamoros.edu.mx` | (868) 810 7625 | *Horario: 7:30 AM a 10:00 PM*. (Atención médica, seguro estudiantil y validación de justificantes médicos en las primeras 48 horas con receta).
+- **Módulo 3 — Informática, Sistemas y Asuntos Académicos:**
+  - **Departamento de Informática y Soporte TI:** Jefe Ing. Tomás Gilberto Cantú González | `soporte@utmatamoros.edu.mx` | Tels: (868) 810 7664 y Ext. 7665 | *Horario: 24/7 Vía Asistente IA o 8:00 AM a 5:00 PM Presencial*. (Soporte de correos, Office 365, acceso a red y portales institucionales).
+  - **Dirección Académica:** Dr. José Juan Villanueva Sierra | `jose.villanueva@utmatamoros.edu.mx` | (868) 810 7610.
+  - **Atención a Alumnos / Tutorías Académicas:** Lic. Clara Iveth Cantú Almanza | `clara.cantu@utmatamoros.edu.mx`.
+- **Edificio de Vinculación y CAE:**
+  - **Dirección de Vinculación:** Mtro. Mariano Martínez Díaz de León | `vinculacion@utmatamoros.edu.mx` | (868) 810 7600 | *Horario: 8:00 AM a 6:00 PM*.
+  - **Estadías y Prácticas Profesionales:** Ing. Irlanda Mata Gallegos / Mtra. Gladys Areli Medina | `irlanda.mata@utmatamoros.edu.mx` | `gladys.medina@utmatamoros.edu.mx` | (868) 810 7660.
+  - **CAE (Centro de Atención a Estudiantes):** Mtra. Aida Jesús Granados García | `atencion.alumnos@utmatamoros.edu.mx` | (868) 810 7668 y Ext. 7669 | *Horario: Lunes a Viernes 8:30 AM a 8:30 PM*. (Trámite y reposición de credenciales de estudiante, becas internas/externas ITABEC, papelería y escaneos).
+  - **Movilidad Internacional (MEXPROTEC):** Ing. Jesús David Cuéllar Lozano | `jdavid.cuellar@utmatamoros.edu.mx` | (868) 810 7665.
+- **Biblioteca Universitaria:** *Horario: Lunes a Viernes 8:00 AM a 8:00 PM | Sábados 9:00 AM a 2:00 PM*. Préstamo de libros y adquisición de uniformes institucionales. (Las impresiones y fotocopias se realizan en Vinculación/CAE, no en Biblioteca).
 
-## 3. Directorio de Contactos y Horarios (Lunes a Viernes)
-- **Departamento de Informática / Sistemas (Módulo 3):** Jefe Ing. Tomás Gilberto Cantú González | (868) 8107 664 y 665 | soporte@utmatamoros.edu.mx | *24/7 (Vía IA) o 8:00 AM - 5:00 PM (Presencial)*
-- **CAE (Centro de Atención a Estudiantes):** (868) 8107 668 y 669 | atencion.alumnos@utmatamoros.edu.mx | *8:30 AM a 8:30 PM*
-- **Servicios Escolares:** (868) 8107 634 y 636 | servicios.escolares@utmatamoros.edu.mx | *Módulo 1 (Planta Alta) | Horario: 9:00 AM a 6:30 PM*
-- **Servicio Médico (Módulo 2):** (868) 8107 625 | servicio.medico@utmatamoros.edu.mx | *7:30 AM a 10:00 PM*
-- **Finanzas / Cobranza:** (868) 8107 614 | finanzas@utmatamoros.edu.mx | *9:00 AM a 5:00 PM*
-- **Vinculación (Estadías/Becas):** (868) 8107 628 y 660 | vinculacion@utmatamoros.edu.mx | *8:00 AM a 6:00 PM*
-- **Biblioteca:** *9:00 AM a 5:00 PM (L-V) y Sábados 9:00 AM a 2:00 PM*
-- **Rectoría (Mtra. Diana Masso Quintana):** Tel directo: (868) 8107 610 | Asistentes: (868) 8107 613 | rectoria@utmatamoros.edu.mx
+## 3. TRÁMITES ACADÉMICOS Y ESCOLARES (SERVICIOS ESCOLARES)
+- **Constancias de Estudio, Historial Académico (Kardex) y Certificados:**
+  1. Pagar la cuota correspondiente en el portal de Finanzas Tamaulipas (`Cobro OPD`).
+  2. Enviar el comprobante de pago en formato PDF o imagen legible por correo institucional a `servicios.escolares@utmatamoros.edu.mx`, especificando matrícula, nombre completo y motivo del documento (IMSS, beca, trabajo, etc.).
+  3. Tiempo de entrega: 24 horas hábiles tras la verificación.
+- **Bajas (Temporales / Definitivas) y Reinscripciones:** Acudir primeramente a la Coordinación/Dirección de tu Carrera en el Módulo 3. Posteriormente formalizar en Servicios Escolares. Para tramitar una baja o titulación es requisito obligatorio contar con la **Carta de No Adeudo** (firmas de Finanzas, Biblioteca y Laboratorios).
+- **Revalidación y Equivalencias:** Alumnos provenientes de otra universidad o UT deben presentar historial académico y contenidos de programas en Servicios Escolares para el dictamen técnico.
 
-## 4. Convocatoria de Nuevo Ingreso, Fichas de Admisión y Examen Diagnóstico
-- **Departamento Oficial Encargado:** Todo el proceso de admisión, convocatorias, fechas de examen diagnóstico (incluyendo apertura de segundas fechas o periodos extraordinarios), requisitos y registro de aspirantes es coordinado por el **Departamento de Servicios Escolares** (`servicios.escolares@utmatamoros.edu.mx` | Módulo 1 - Planta Alta | Tel: 868 810 7634 y 636 | Horario: 9:00 AM a 6:30 PM).
-- **Costo y Tramitación de Ficha:** La cuota de ingreso (Ficha de Nuevo Ingreso) tiene un costo oficial de **$600 MXN**. Se tramita y paga en línea a través del portal de Finanzas del Gobierno del Estado de Tamaulipas (`https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/cobro-opd.php` seleccionando UNIVERSIDAD TECNOLOGICA DE MATAMOROS).
-- **Requisitos y Documentación Básica para Aspirantes:** 1) Acta de nacimiento reciente. 2) CURP en formato reciente. 3) Certificado de bachillerato/preparatoria o constancia de estudios que indique promedio general. 4) Comprobante de pago del recibo de la ficha ($600 MXN).
-- **Confirmación de Fecha y Hora del Examen Diagnóstico:** Una vez realizado el pago de los $600 MXN, el aspirante debe enviar su comprobante y datos personales (nombre completo, carrera de interés como Licenciatura en Gestión de Negocios y Proyectos, teléfono y correo) a `servicios.escolares@utmatamoros.edu.mx` o comunicarse a los teléfonos de Servicios Escolares. El personal administrativo asignará y confirmará el folio, la fecha exacta, hora y aula programada para presentar el examen diagnóstico en la universidad.
+## 4. CREDENCIAL DE ESTUDIANTE, BECAS Y APOYOS (CAE / VINCULACIÓN)
+- **Trámite y Reposición de Credencial de Estudiante ($100 MXN):**
+  1. Subir tu fotografía digital a color directamente en tu perfil del portal escolar **EDI (EDRP)** (`https://edrp.utmatamoros.edu.mx`) y registrar tu Número de Seguridad Social (NSS) del IMSS.
+  2. Pagar los **$100 MXN** de la Cuota Credencial en el portal de Finanzas Tamaulipas.
+  3. Enviar el recibo de pago y tu matrícula al correo oficial **`atencion.alumnos@utmatamoros.edu.mx`**. El CAE procesará tu credencial física.
+- **Becas y Apoyos Estudiantiles:**
+  - **Beca de Manutención Institucional:** Descuento en cuota de reinscripción (hasta 50%). Requisitos: Promedio mínimo 8.5, sin materias reprobadas y estudio socioeconómico.
+  - **Beca de Excelencia:** Automática para promedios cuatrimestrales de 9.5 a 10.0.
+  - **Beca Futuro Tamaulipas (ITABEC):** Gestión en CAE tras registrarse en `https://sistemasiceet.tamaulipas.gob.mx/becas/futurotamaulipas/`. Requiere cuenta bancaria BBVA a nombre del estudiante.
+  - **Movilidad Internacional (MEXPROTEC):** Intercambios académicos a Francia, Canadá o EE.UU. Requiere certificación de inglés B1/B2.
+  - **Apoyo Alimenticio:** Una comida diaria gratuita en cafetería para estudiantes en situación de vulnerabilidad (trámite en Vinculación).
 
-## 5. Oferta Educativa (TSU e Ingenierías)
-*Nota: Todas las carreras inician como Técnico Superior Universitario (TSU, 2 años / 6 cuatrimestres) con opción a continuidad en Ingeniería o Licenciatura (1 año y 8 meses extra / 5 cuatrimestres). La UTM ofrece modalidades escolarizada (tradicional y BIS) y mixta (semipresencial).*
+## 5. GUÍA DE PAGOS EN LÍNEA Y TABLA OFICIAL DE CUOTAS (FINANZAS TAMAULIPAS)
+- **Portal web oficial de pago:** `https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/cobro-opd.php`
+- **Instrucciones para generar recibo:**
+  1. Seleccionar el Organismo Público Descentralizado (OPD): **UNIVERSIDAD TECNOLOGICA DE MATAMOROS**.
+  2. Dar clic en **REGISTRAR PAGO** y completar los datos obligatorios: Matrícula, RFC (o primeros 10 dígitos de la CURP si no tienes RFC), Nombre completo, Domicilio y CURP.
+  3. Seleccionar el concepto del trámite en **Detalle de la Recaudación** y generar el recibo.
+- **Métodos de pago:** En línea (tarjeta crédito/débito) o ventanilla/tienda de conveniencia (BBVA Bancomer, Banorte, HSBC, Santander, Citibanamex, Scotiabank, Telecom, OXXO).
+- **⚠️ NOTA CRÍTICA DE APLICACIÓN:** Los pagos realizados en el portal o en bancos tardan de **24 a 48 horas hábiles** en reflejarse en el sistema institucional. Si existe algún adeudo en cartera vencida, el sistema bloquea la reinscripción al siguiente periodo. Dudas de pagos en `finanzas@utmatamoros.edu.mx`.
 
-### Modalidad Escolarizada y BIS
-1. **Inteligencia Artificial (IA):** Desarrollo de software, Big Data, Machine Learning, Redes Neuronales. Alta demanda en empresas IT globales.
-2. **Mantenimiento Industrial:** Planeación y ejecución de mantenimiento automotriz/manufacturera. Reparación de maquinaria pesada.
-3. **Logística Internacional y Aduanas (Operaciones Logísticas y Comercio Exterior):** Cadena de suministros, comercio exterior, agencias aduanales, CEDIS. Clasificación arancelaria y despacho aduanero.
-4. **Robótica y Automatización:** Celdas robóticas, PLCs, sistemas electromecánicos, manufactura inteligente 4.0.
-5. **Infraestructura de Redes Digitales:** Ciberseguridad, enrutamiento Cisco, administración de servidores en la nube.
-6. **Mecatrónica (Área Automatización e Instalaciones Eléctricas Eficientes):** Combinación de mecánica, electrónica y sistemas de control industrial. También incluye diseño e instalación de sistemas eléctricos inteligentes y eficientes.
-7. **Procesos de Producción (Procesos Industriales Manufactura):** Optimización de líneas de ensamble y control de calidad (Six Sigma, Lean Manufacturing).
-8. **Plásticos (Moldeo):** Diseño y manufactura de polímeros para la industria automotriz y médica.
-9. **Desarrollo de Negocios:** Mercadotecnia, gestión de ventas, emprendimiento e innovación comercial.
-10. **Enseñanza del Idioma Inglés:** Formación de profesionales en la enseñanza del inglés como segunda lengua (modalidad BIS).
-
-### Modalidad Mixta (Semipresencial)
-La UTM ofrece algunas carreras en modalidad mixta para personas que trabajan o no pueden asistir de tiempo completo. Consultar disponibilidad en Servicios Escolares.
-
-## 5. Trámites Escolares Frecuentes, Cuotas Oficiales y Guía de Pagos en Línea
-- **Constancias de Estudio, Certificados de Estudio, Títulos / Titulación e Historial Académico (Kardex):** Todos estos trámites académicos y dudas de titulación se gestionan y solicitan directamente en el **Departamento de Servicios Escolares** (`servicios.escolares@utmatamoros.edu.mx` | Módulo 1 - Planta Alta | Horario: 9:00 AM a 6:30 PM).
-- **Credencial de Estudiante (Tramitación y Reposición):** Para sacar, obtener o reponer tu credencial oficial de estudiante de la UTM (o Lions Plus), los requisitos y pasos exactos son: 1) **Subir tu fotografía en formato digital** directamente en tu perfil del portal escolar **EDI (EDRP)**. 2) Realizar el pago de la **Cuota Credencial de Estudiante ($100 MXN)** en el portal de pago en línea de Finanzas (`https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/cobro-opd.php` seleccionando UNIVERSIDAD TECNOLOGICA DE MATAMOROS). 3) Enviar por correo electrónico tu comprobante/recibo de pago y tu número de matrícula al **Departamento de Atención a Alumnos** (`atencion.alumnos@utmatamoros.edu.mx` | Edificio de Vinculación). Con la fotografía cargada en EDI y el comprobante recibido en su correo, el departamento procederá a emitir tu credencial.
-- **Bajas (Temporales / Definitivas) y Dudas de Reinscripción:** Para realizar una baja escolar, consultar sobre reinscripciones o analizar tu situación escolar, debes acudir y gestionarlo directamente con el **Departamento del Área Académica (Coordinación de tu Carrera / Dirección Académica)** en el Módulo 3.
-- **Justificantes Médicos:** Solo el Servicio Médico de la UTM puede validar incapacidades. Se debe presentar la receta médica oficial en las primeras 48 horas tras la inasistencia.
-- **Revalidación y Equivalencias:** Para alumnos que vienen de otra universidad (incluyendo otras UTs), Servicios Escolares realiza el proceso de revalidación de materias. Se requiere historial académico y programas de estudio de la institución de origen.
-- **Carta de No Adeudo:** Necesaria para trámites como baja o titulación. Se recolectan firmas de Finanzas, Biblioteca y Laboratorios.
-
-### 💰 Guía de Pagos en Línea y Tabla de Cuotas Oficiales (Secretaría de Finanzas)
-Para realizar el pago de cuotas escolares (reinscripciones, fichas de nuevo ingreso, constancias, historiales, credenciales, titulación, exámenes de regularización, etc.), el alumno debe ingresar al portal oficial de pagos del Gobierno del Estado de Tamaulipas:
-👉 **Portal de Pago en Línea:** `https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/cobro-opd.php`
-
-**Pasos para generar tu recibo en el portal:**
-1) Seleccionar el Organismo Público Descentralizado (OPD): **UNIVERSIDAD TECNOLOGICA DE MATAMOROS**.
-2) Completar los **Datos del Recibo (Obligatorios *):** Matrícula, RFC (si no cuentas con él puedes usar uno genérico), Apellido paterno/materno o nombre completo, Domicilio y CURP.
-3) En la sección **Detalle de la Recaudación**, seleccionar la **Cuota / Concepto** del trámite que deseas realizar y dar clic en **Enviar / Generar Recibo**.
-
-**Tabla de Costos y Cuotas Oficiales de la UTM:**
 | CONCEPTO / TRÁMITE | IMPORTE (MXN) |
 | :--- | :--- |
-| **CUOTA DE INGRESO (Ficha de Nuevo Ingreso)** | **$600** |
-| **CUOTA PERIODO CUATRIMESTRAL TSU (Reinscripción TSU Normal)** | **$1,900** |
-| **CUOTA PERIODO CUATRIMESTRAL TSU CON BECA AL 50%** | **$950** |
-| **CUOTA PERIODO CUATRIMESTRAL TSU LENGUA INGLESA (BIS)** | **$2,500** |
-| **CUOTA PERIODO CUATRIMESTRAL TSU LENGUA INGLESA CON BECA AL 50%** | **$1,250** |
-| **CUOTA PERIODO CUATRIMESTRAL INGENIERÍA (Reinscripción Ingeniería Normal)** | **$2,500** |
-| **CUOTA PERIODO CUATRIMESTRAL INGENIERÍA CON BECA AL 50%** | **$1,250** |
-| **CUOTA CONSTANCIA DE ESTUDIOS** | **$100** |
-| **CUOTA CREDENCIAL DE ESTUDIANTE** | **$100** |
-| **CUOTA HISTORIAL ACADÉMICO / KARDEX** | **$50** |
-| **CUOTA EXAMEN DE REGULARIZACIÓN** | **$150** |
-| **CUOTA RESGUARDO DE DOCUMENTOS** | **$240** |
-| **CUOTA TITULACIÓN DE TSU** | **$1,400** |
-| **CUOTA TITULACIÓN DE INGENIERÍA** | **$3,800** |
-| **CUOTA INSCRIPCIÓN A MAESTRÍA (TI - Gestión de Proyectos)** | **$2,500** |
-| **CUOTA REINSCRIPCIÓN A MAESTRÍA (TI - Gestión de Proyectos)** | **$5,000** |
-| **CUOTA TITULACIÓN DE MAESTRÍA (TI - Gestión de Proyectos)** | **$7,000** |
+| **Ficha de Nuevo Ingreso (Examen de Admisión)** | **$600.00** |
+| **Reinscripción Cuatrimestral TSU Normal** | **$1,900.00** |
+| **Reinscripción Cuatrimestral TSU con Beca 50%** | **$950.00** |
+| **Reinscripción Cuatrimestral TSU Bilingüe (BIS)** | **$2,500.00** |
+| **Reinscripción Cuatrimestral TSU Bilingüe (BIS) con Beca 50%** | **$1,250.00** |
+| **Reinscripción Cuatrimestral Ingeniería / Licenciatura Normal** | **$2,500.00** |
+| **Reinscripción Cuatrimestral Ingeniería / Licenciatura con Beca 50%** | **$1,250.00** |
+| **Constancia de Estudios** | **$100.00** |
+| **Credencial de Estudiante (Reposición o Trámite)** | **$100.00** |
+| **Historial Académico / Kardex** | **$50.00** |
+| **Examen de Regularización** | **$150.00** |
+| **Resguardo de Documentos** | **$240.00** |
+| **Titulación de TSU** | **$1,400.00** |
+| **Titulación de Ingeniería / Licenciatura** | **$3,800.00** |
+| **Inscripción a Maestría (TI - Gestión de Proyectos)** | **$2,500.00** |
+| **Reinscripción a Maestría (TI - Gestión de Proyectos)** | **$5,000.00** |
+| **Titulación de Maestría (TI - Gestión de Proyectos)** | **$7,000.00** |
 
-*Nota sobre aplicación de pagos:* Una vez realizado el pago en el portal de Finanzas (ya sea en línea con tarjeta o en ventanilla bancaria con tu referencia), los pagos tardan aproximadamente entre 24 a 48 horas en reflejarse en el sistema institucional. Si presentas dudas con un pago ya realizado, acude o comunícate al **Departamento de Finanzas / Cobranza** en el Módulo 1 (`868 810 7614`).
+## 6. SISTEMAS DIGITALES, SOPORTE TI Y RESTABLECIMIENTO DE CONTRASEÑAS (MÓDULO 3)
+- **Restablecimiento de Contraseña de Correo Institucional (`@utmatamoros.edu.mx`):**
+  - **Desde el Correo Institucional:** Si solicitas reseteo desde tu misma cuenta institucional o dominio `@utmatamoros.edu.mx`, el Asistente IA lo procesa de forma directa y te envía tu clave temporal en minutos.
+  - **Desde un Correo Personal Externo (`@gmail.com`, `@hotmail.com`, etc.):** Si perdiste acceso a tu correo UTM, el Asistente IA te solicitará nombre completo, matrícula y **una foto/imagen clara de tu credencial de estudiante** (o identificación escolar oficial). Al recibir la foto, el caso pasa al Administrador de TI (`soporte@utmatamoros.edu.mx`) para aprobación manual.
+  - **⚠️ Cuentas Bloqueadas o Comprometidas (Phishing / Error de Seguridad):** Si la cuenta institucional se reporta como bloqueada o inactiva por seguridad (ej. tras hacer clic en un enlace de phishing), la IA **NO realizará un reseteo automático**. Solicitará obligatoriamente: **1) Nombre, 2) Matrícula, y 3) Foto de Credencial Escolar**, y enviará la evidencia directamente a los Ingenieros de Soporte TI para la auditoría y desbloqueo manual del usuario.
+- **Restablecimiento de Contraseña del Portal EDI / EDRP (`edrp.utmatamoros.edu.mx`):**
+  - El portal de calificaciones y asistencias EDI es un sistema independiente de la IA.
+  - **Pasos para restablecer en EDI:** 1) Ingresar a `https://edrp.utmatamoros.edu.mx`. 2) Dar clic en **"Restablecer contraseña"** o "¿Olvidó su contraseña?". 3) Ingresar tu correo institucional `@utmatamoros.edu.mx` para recibir el enlace automático de recuperación.
+  - **Falla técnica o error en rojo en EDI:** Si al colocar tu correo institucional el sistema EDI marca un error o indica "usuario inactivo/no encontrado", debes enviar un correo directamente a **`soporte@utmatamoros.edu.mx`** con tu matrícula para que habiliten tu usuario en el servidor EDI.
+- **Microsoft 365 / Office 365 (Licencia Estudiantil A1 - EXCLUSIVAMENTE VERSIÓN WEB):**
+  - Todos los estudiantes reciben gratis la suite Microsoft 365 **Versión Web (Office Online)**.
+  - **Acceso:** Ingresar a `www.office.com` o `portal.office.com` e iniciar sesión con el correo `@utmatamoros.edu.mx` y contraseña. Puedes usar Word, Excel, PowerPoint, Teams, Outlook y OneDrive en la nube.
+  - **Por qué da error al abrir Word instalado en tu computadora:** Al ser una licencia educativa **versión Web (A1)**, **NO incluye la activación de programas de escritorio instalados localmente en PC o Mac**. Si intentas activar el Word o Excel local con tu correo de estudiante, te dirá que "no cuentas con licencia de escritorio" o "tu cuenta educativa no está activa". Para trabajar tus proyectos sin problemas, utiliza siempre la plataforma **Office Online (`www.office.com`)**.
 
-## 6. Becas y Apoyos Estudiantiles
-- **Beca de Manutención Institucional:** Descuento en la reinscripción (hasta 50%). Requisitos: Promedio mínimo de 8.5, no tener materias reprobadas, y estudio socioeconómico.
-- **Becas de Excelencia:** Otorgada automáticamente a los promedios de 9.5 a 10.
-- **Movilidad Internacional (MEXPROTEC):** Programas de intercambio a Francia, Canadá y EE.UU. Requiere nivel de inglés B1/B2 certificado. Incluye apoyo para pasaporte, visa y hospedaje en algunos casos.
-- **Apoyo Alimenticio:** Acceso gratuito a una comida diaria en la cafetería para alumnos de bajos recursos (trámite en Vinculación).
-- **Becas Externas:** También existen programas de becas del Gobierno Federal y Estatal. Consultar convocatorias vigentes en Vinculación o en la página oficial de becas del gobierno.
-
-## 7. Vida Estudiantil y Extracurricular (Clubes)
-La UTM cuenta con actividades integrales (Para-escolares) que otorgan créditos obligatorios:
-- **Deportes:** Fútbol (Varonil/Femenil), Básquetbol, Voleibol, Béisbol, Atletismo.
-- **Cultura y Arte:** Danza Folklórica, Rondalla, Grupo de Rock, Canto, Teatro.
-- **Clubes Académicos:** Club de Robótica (VEX Robotics), Club de Programación, Ajedrez.
-- **Encargado de Actividades Extracurriculares, Deportivas y Culturales:** Lic. Antonio Castañeda Pastor | Contacto DEU: 8688107627 | Contacto DEA: 8688107622
-- **¿Cómo inscribirse?** Para inscribirse a cualquier club o actividad extracurricular, los alumnos deben acudir al **Módulo 2** con el Lic. Antonio Castañeda durante la primera semana del cuatrimestre. Las actividades extracurriculares son obligatorias y otorgan créditos para la titulación.
-
-## 8. Plataformas Digitales y Sistemas y Restablecimiento de Contraseñas
-- **Restablecimiento de Contraseña Office 365 / Correo Institucional (@utmatamoros.edu.mx):**
-  - **Desde Correo Institucional:** Si solicitas el restablecimiento desde tu misma cuenta institucional o dominio `@utmatamoros.edu.mx`, la IA procesará la solicitud automatizada y te enviará tu contraseña/código temporal en minutos.
-  - **Desde Correo Externo (@gmail.com, @hotmail.com, etc.):** Si no tienes acceso a tu correo institucional y escribes desde un correo externo, el sistema IA te solicitará tus datos (nombre completo, matrícula) y **una imagen/foto de tu credencial estudiantil** (o documento escolar que avale tu identidad). Una vez recibida, el caso se envía al Administrador de TI para su validación y aprobación manual.
-  - **⚠️ Cuentas Bloqueadas, Inhabilitadas o Comprometidas (Phishing / Error):** Si el sistema de monitoreo, Graph API o el usuario reportan que la cuenta institucional se encuentra **bloqueada, inactiva o inhabilitada** (por ejemplo, tras ingresar a un enlace malicioso o intento de phishing), el Asistente Inteligente **NO procederá con el restablecimiento automático**. Para proteger la cuenta, exigirá obligatoriamente que el usuario adjunte: **1) Nombre Completo, 2) Matrícula, y 3) Foto legible de su credencial de estudiante de la UTM** (o identificación oficial con fotografía). Al recibir esta documentación, el Asistente transferirá y escalará el correo y los adjuntos directamente al **Administrador y al área de Soporte TI** (`soporte@utmatamoros.edu.mx`) para su verificación manual y desbloqueo del usuario. Únicamente después de que la Administración autorice y habilite la cuenta, se procederá con la emisión de la nueva contraseña.
-- **Restablecimiento de Contraseña del Sistema EDI / EDRP (https://edrp.utmatamoros.edu.mx):**
-  - El restablecimiento de contraseña del Portal EDI **NO** lo genera la IA directamente con un código temporal.
-  - **Paso a paso para el usuario:**
-    1) Entrar al portal del Sistema EDI: `https://edrp.utmatamoros.edu.mx`
-    2) Dar clic en la opción **"Restablecer contraseña"** (o "¿Olvidó su contraseña?").
-    3) Ingresar tu correo institucional (`@utmatamoros.edu.mx`). El sistema EDI enviará un enlace automático a tu correo institucional.
-    4) **⚠️ Solución de errores en EDI:** Si al colocar el correo institucional el Sistema EDI marca un **error en rojo** (ej. usuario inactivo o no encontrado) y no te permite avanzar, debes reportar el caso directamente a **`soporte@utmatamoros.edu.mx`** con tu matrícula y nombre para que el personal técnico proceda a habilitar tu cuenta en el Sistema EDI.
-- **Microsoft Teams y Office 365 (Licencia A1 - SÓLO WEB):** Cada alumno recibe una licencia gratuita de Office 365 en versión ONLINE (Web). Puedes acceder y trabajar con Word, Excel, PowerPoint y Teams directamente desde tu navegador en www.office.com o portal.office.com iniciando sesión con tu correo @utmatamoros.edu.mx. Nota importante: Al ser licencia A1 Web, NO incluye instalador de paquetería de escritorio en PC o Mac, por lo que si intentas abrir Word de escritorio aparecerá el mensaje "Tu cuenta educativa ya no está activa". Para solucionarlo, simplemente utiliza la versión web en tu navegador.
-- **Correo Institucional (@utmatamoros.edu.mx):** Es el único medio oficial para solicitar trámites, reseteos o hablar con directivos.
-- **Redes Sociales Oficiales:** La UTM publica avisos importantes (inicio de cuatrimestre, reinscripciones, eventos) en sus redes sociales oficiales de Facebook e Instagram.
-
-## 9. Titulación y Estadías
-- **Estadías Profesionales:** En el 6° cuatrimestre (TSU) y 11° cuatrimestre (Ingeniería), los alumnos trabajan de tiempo completo en una empresa real desarrollando un proyecto. Es obligatorio para graduarse. Encargado: Ing. Irlanda Mata | irlanda.mata@utmatamoros.edu.mx
-- **Servicio Social:** Requisito previo a la titulación. Se debe cumplir con un mínimo de 480 horas de servicio comunitario o institucional.
-- **Titulación:** Se requiere concluir la Estadía, liberar el Servicio Social, y entregar la Memoria Técnica aprobada por un asesor académico e industrial.
-- **Cédula Profesional:** Una vez titulado, la UTM gestiona el trámite de cédula profesional ante la Dirección General de Profesiones de la SEP.
-
-## 10. Nuevo Ingreso (Preinscripción 2026)
+## 7. ADMISIÓN Y NUEVO INGRESO (CONVOCATORIA 2026)
 - **Fechas de Preinscripción:** 23 de febrero al 15 de abril de 2026.
-- **Examen de Admisión:** 29 de mayo de 2026.
-- **Costo de Ficha:** $600 MXN (pago ante la Secretaría de Finanzas del Gobierno de Tamaulipas, seleccionando "Universidad Tecnológica de Matamoros" con la CURP del aspirante). Los pagos tardan aprox. 48 horas en reflejarse en el sistema.
-- **Registro Paso a Paso:**
-  1) Realizar pago de cuota de ingreso ($600 MXN) en el portal de la Secretaría de Finanzas con tu CURP.
-  2) Esperar 48 horas para que el pago se refleje.
-  3) Completar el formulario de preinscripción en línea en el portal de la UTM.
-  4) Cargar los siguientes documentos en formato PDF (máximo 300KB cada uno):
-     - Acta de nacimiento (actualizada 2026).
-     - CURP (descargado de RENAPO).
-     - Certificado de bachillerato, constancia de estudios con promedio o kardex académico (promedio mínimo 7.0).
-     - Comprobante de pago de cuota de ingreso.
-     - Fotografía tamaño infantil a color (digital).
-  5) Presentar examen de admisión en la fecha indicada.
-  6) Una vez aceptado, acudir a Servicios Escolares con documentos originales para inscripción definitiva (incluye firma de carta compromiso y aviso de privacidad).
+- **Examen de Admisión / Diagnóstico:** 29 de mayo de 2026.
+- **Costo de Ficha:** $600.00 MXN (tramitada en el portal de Finanzas Tamaulipas seleccionando "Universidad Tecnológica de Matamoros").
+- **Proceso de Registro Aspirantes:**
+  1. Realizar el pago de la ficha ($600 MXN) y esperar 48 horas a que se refleje.
+  2. Llenar el formulario de preinscripción en línea en la página web oficial de la UTM.
+  3. Cargar en PDF: Acta de nacimiento reciente, CURP en formato reciente, Certificado de bachillerato o constancia con promedio mínimo de 7.0, Comprobante de pago de la ficha y Fotografía digital a color.
+  4. Enviar datos y comprobante a `servicios.escolares@utmatamoros.edu.mx` o comunicarse para la asignación y confirmación de folio, fecha, hora y aula para presentar el examen diagnóstico en el campus.
 
-## 11. Preguntas Frecuentes Adicionales
+## 8. OFERTA EDUCATIVA (CARRERAS TSU E INGENIERÍAS)
+Todas las carreras duran 3 años y 8 meses aproximadamente (2 años de TSU + 1 año 8 meses de Ingeniería/Licenciatura):
+1. **Inteligencia Artificial (IA)** (Software, Big Data, Machine Learning).
+2. **Mantenimiento Industrial** (Maquinaria pesada, planeación automotriz y manufacturera).
+3. **Logística Internacional y Aduanas** (Cadena de suministro, clasificación arancelaria y despacho aduanero).
+4. **Robótica y Automatización** (PLCs, celdas robóticas, manufactura 4.0).
+5. **Infraestructura de Redes Digitales** (Ciberseguridad, enrutamiento Cisco, cloud servers).
+6. **Mecatrónica** (Automatización e Instalaciones Eléctricas Eficientes).
+7. **Procesos de Producción / Procesos Industriales** (Lean Manufacturing, Six Sigma).
+8. **Plásticos / Moldeo** (Diseño de polímeros automotriz y médico).
+9. **Desarrollo de Negocios** (Mercadotecnia, ventas e innovación comercial).
+10. **Enseñanza del Idioma Inglés** (Modalidad BIS, docencia bilingüe).
+*Nota: También existen programas en Modalidad Mixta (Semipresencial fines de semana) para personas que trabajan. Consultar disponibilidad en Servicios Escolares.*
 
-### ¿Qué hago si olvidé mi contraseña del correo institucional?
-Envía un correo desde tu correo personal a soporte-ia@utmatamoros.edu.mx indicando tu nombre completo y matrícula. Si eres alumno con correo institucional, el sistema puede restablecerla automáticamente.
+## 9. ESTADÍAS PROFESIONALES, SERVICIO SOCIAL Y TITULACIÓN
+- **Estadías Profesionales:** En el último cuatrimestre de TSU (6°) y de Ingeniería (11°), el alumno se integra de tiempo completo en una empresa desarrollando un proyecto tecnológico real. Coordinación: Ing. Irlanda Mata (`irlanda.mata@utmatamoros.edu.mx` / `gladys.medina@utmatamoros.edu.mx`).
+- **Servicio Social:** Requisito previo obligatorio para la titulación. Consta de un mínimo de 480 horas de labor comunitaria o institucional.
+- **Titulación y Cédula Profesional:** Tras liberar Estadías, Servicio Social y Memoria Técnica, el alumno tramita su título en Servicios Escolares. La Cédula Profesional se gestiona de forma personal en la plataforma de la SEP (Dirección General de Profesiones) requiriendo e.firma vigente del SAT.
 
-### ¿Puedo usar Office 365 en mi teléfono?
-Sí. Descarga las aplicaciones de Microsoft (Word, Excel, PowerPoint, Teams, Outlook) desde la App Store o Google Play e inicia sesión con tu correo institucional @utmatamoros.edu.mx.
+## 10. VIDA ESTUDIANTIL, TRANSPORTE Y CLUBES EXTRACURRICULARES
+- **Clubes Deportivos y Culturales (Obligatorios para Créditos):** Deportes (Fútbol, Básquetbol, Voleibol, Béisbol, Atletismo), Cultura (Danza, Rondalla, Rock, Teatro) y Clubes Académicos (Robótica VEX, Programación, Ajedrez). Inscripciones la primera semana de cada cuatrimestre en el Módulo 2 con el Lic. Antonio Castañeda (`antonio.castañeda@utmatamoros.edu.mx`).
+- **Transporte Universitario (Venta de boletos en Finanzas Módulo 1):** Rutas en Matamoros (Sendero, Super Colchones, Lauro Villar, Las Brisas, Av. del Niño, Presidentes, Laguneta, Canadá) y en Valle Hermoso (Lucio Blanco, Anáhuac, Control, Plaza Principal).
 
-### ¿Por qué me sale el error "Tu cuenta educativa ya no está activa" o me pide licencia al abrir Word en mi computadora?
-Esto no significa que tu cuenta esté bloqueada ni en mantenimiento. Las cuentas de los estudiantes de la UTM cuentan con licencia de **Microsoft 365 Web (Licencia A1 para estudiantes)**. Esta modalidad otorga acceso completo para trabajar con Word, Excel, PowerPoint, Teams y OneDrive **únicamente en línea a través del navegador web**.
-No puedes iniciar sesión con tu cuenta institucional en las aplicaciones de Word o Excel **instaladas localmente en tu computadora de escritorio o Mac** porque la licencia estudiantil no incluye activación de software de escritorio.
-**Solución:** Ingresa desde tu navegador a **www.office.com** (o `portal.office.com`), inicia sesión con tu correo `@utmatamoros.edu.mx` y abre Word desde el portal web. Tus documentos se guardarán automáticamente en tu OneDrive institucional.
-
-### ¿Cuánto dura la carrera?
-- TSU: 2 años (6 cuatrimestres), incluyendo la Estadía Profesional en el último cuatrimestre.
-- Ingeniería (continuidad): 1 año 8 meses adicionales (5 cuatrimestres), incluyendo otra Estadía.
-- Total si completas ambas: aproximadamente 3 años y 8 meses.
-
-### ¿Puedo cambiar de carrera?
-Sí, pero el proceso de revalidación depende de las materias cursadas. Acude a Servicios Escolares para evaluar tu caso específico.
-
-### ¿La UTM tiene modalidad en línea?
-La UTM ofrece modalidad mixta (semipresencial) en algunos programas, que combina sesiones presenciales los fines de semana con actividades en línea entre semana. No hay una modalidad 100% en línea. Consulta disponibilidad en Servicios Escolares.
-
-### ¿Dónde consulto el calendario escolar?
-El calendario escolar se publica en el portal oficial www.utmatamoros.edu.mx en la sección de "Servicios Escolares" o "Alumnos". También se comparte en las redes sociales oficiales de la UTM.
-
-### ¿Cómo solicito una carta de recomendación?
-Las cartas de recomendación académica se solicitan directamente con el profesor o tutor académico. Las cartas institucionales se tramitan en el CAE.
-
-## 12. Mapa del Campus y Descripción de Módulos
-
-### Módulo 1 — Centro Administrativo
-- **Rectora:** Mtra. Diana Masso Quintana | rectoria@utmatamoros.edu.mx | Tel directo: 868 810 7610 | Asistentes: 868 810 7613
-- **Jefe Servicios Administrativos:** Lic. Albino Hernández González | servicios.administrativos@utmatamoros.edu.mx | Tel: 8688107616 | Horario: 9:00 am - 8:00 pm
-  - Servicios: Firma de recibos, Cartas de aceptación
-- **Abogado General:** Abogado Lic. Carlos Faustino González Maldonado | abogado.general@utmatamoros.edu.mx | Horario: 9:00 am - 5:00 pm
-  - Servicios: Irregularidades con alumnos, Quejas por acoso y/o bullying
-- **Jefe de Servicios Escolares:** Clara Iveth Cantú Almanza | servicios.escolares@utmatamoros.edu.mx | clara.cantu@utmatamoros.edu.mx | Tel: 8688107634 / Ext. 7636 | Ubicación: Módulo 1 (Planta Alta) | Horario: 9:00 am - 6:30 pm
-  - Servicios: Constancias de estudio, Historial académico, Titulación, Inscripciones y Reinscripciones, Reincorporación, Bajas, Administración de calificaciones.
-- **Cobranza / Finanzas:** Lic. Luis Gámez | cobranza@utmatamoros.edu.mx | Venta de boletos: Matutino 10:00 am - 2:00 pm
-- **Departamento de Compras:** Juan Vázquez | depto.compras@utmatamoros.edu.mx
-- **Área Administrativa:** Lic. Felicitas Márquez Ayala | administrativa@utmatamoros.edu.mx
-- **Instalaciones:** Auditorio, Laboratorio de Cómputo, Laboratorio de Química, Salones.
-
-### Módulo 2 — Actividades Extracurriculares y Servicio Médico
-- **Encargado Actividades Extracurriculares:** Lic. Antonio Castañeda Pastor | antonio.castañeda@utmatamoros.edu.mx | DEU: 8688107627 | DEA: 8688107622
-  - Temas: Clubes deportivos, eventos deportivos y culturales.
-- **Servicio Médico:** Dra. Nissi Carrillo Sánchez | servicio.medico@utmatamoros.edu.mx
-  - Horario: Matutino 7:30 am – 3:30 pm | Tarde 2:00 pm – 10:00 pm
-  - Servicios: Atención médica, inyecciones con receta, chequeo de signos vitales, curaciones, primeros auxilios, anticonceptivos, artículos de higiene, seguro estudiantil, control de enfermedades crónicas.
-- **Coordinador de Ingenierías:** Ing. Roberto Mendoza | ingenierias@utmatamoros.edu.mx | Tel: (868) 810-7610
-- **Salones:** 2-01 al 2-06 (con proyector, AC e internet)
-
-### Módulo 3 — Asuntos Académicos
-- **Director Académico:** Dr. José Juan Villanueva Sierra | jose.villanueva@utmatamoros.edu.mx
-- **Proyectos Académicos:** Ing. Dhelma Flores Ordaz | dhelma.flores@utmatamoros.edu.mx
-- **Atención a Alumnos / Tutorías:** Lic. Clara Iveth Cantú Almanza | clara.cantu@utmatamoros.edu.mx
-  - Servicios: Calificaciones, Reforzamientos, Reportes, Justificaciones, Tutorías
-- **Estadías:** Ing. Irlanda Mata | irlanda.mata@utmatamoros.edu.mx
-- **Cuatrimestre 0 / Examen ITEP / BIS:** Lic. Luis Eduardo de León
-- **Laboratorio de Cómputo:** Lunes a Viernes 8:00 am - 8:00 pm
-- **Salones:** 3-01 al 3-17 (todos con proyector, AC e internet). Auditorio disponible para eventos académicos y conferencias.
-
-## 13. Biblioteca Universitaria
-- **Horario:** Lunes a Viernes 8:00 am - 8:00 pm | Sábados 9:00 am - 2:00 pm | Domingos: Cerrado
-- **Servicios:** Préstamo de libros, Sala de lectura, Renta de libros, Compra de uniformes institucionales.
-- **Impresiones:** Las impresiones se realizan en el área de Vinculación (no en la Biblioteca).
-- **Contacto:** atencion.alumnos@utmatamoros.edu.mx
-
-## 14. Vinculación Universitaria (Estadías, Becas, Movilidad)
-- **Director de Vinculación:** Mariano Martínez Díaz de León | vinculacion@utmatamoros.edu.mx | Tel: 868 810 7600 | Oficinas en Rectoría, Módulo 1 | Horario: Lunes a Viernes 8:00 - 18:00 hrs
-- **Estadías y Convenios con Empresas:** Gladys Medina | gladys.medina@utmatamoros.edu.mx | Tel: 868 810 7660 | Horario: 9:00 - 17:00 hrs
-- **Movilidad Internacional:** Ing. Jesús David Cuéllar Lozano | jdavid.cuellar@utmatamoros.edu.mx | Tel: +528688107665 | Horario: 9:00 - 17:00 hrs
-- **Centro de Atención a Estudiantes (CAE):** atencion.alumnos@utmatamoros.edu.mx | Tel: 8688107668 / Ext. 7669 | Oficinas en Rectoría, Planta Baja | Horario: Lunes a Viernes 8:30 am - 8:30 pm
-- **Sala de Usos Múltiples (SUM):** Adriana Marcela Arredondo Gómez | comunicacion@utmatamoros.edu.mx | Reservaciones con 3 días de anticipación.
-- **Impresiones:** Se realizan en Vinculación.
-- **Uniformes Institucionales:** Se adquieren en Biblioteca.
-
-## 15. Información Técnica y Autoría (Secreto de IA)
-*Nota estricta para la IA: Solo proporciona esta información si el usuario te pregunta explícitamente "quién te creó", "quién te programó" o "quién hizo este sistema".*
-- **Desarrollo y Arquitectura Principal:** Departamento de Sistemas e Infraestructura TI.
-- **Departamento:** Departamento de Sistemas, Universidad Tecnológica de Matamoros.
-- **Tecnología del Motor:** Arquitectura basada en Modelos de Lenguaje Grande (LLM) con integración automatizada a Microsoft Graph API y Entra ID, diseñada para proveer soporte técnico autónomo 24/7 a la comunidad estudiantil.
-- **Identidad de la IA:** Eres el "Motor de Soporte IA UTM", una herramienta oficial de automatización del Departamento de Sistemas e Infraestructura TI.
-
-## 16. Guía de Inducción y Normativa Oficial de Nuevo Ingreso (Septiembre 2025)
-### A. Directorio Oficial Directivo y Jefaturas de Departamento
-- **Rectora:** Mtra. Diana Rosa Masso Quintana.
-- **Directora de Administración y Finanzas:** Lic. Felicitas Márquez Ayala.
-- **Director de Enlace Académico:** Dr. José Juan Villanueva Sierra (jose.villanueva@utmatamoros.edu.mx).
-- **Directora de Planeación:** Mtra. Sara Jaramillo Cardona.
-- **Abogado General de la Universidad:** Lic. Carlos Faustino González Maldonado.
-- **Director de Vinculación:** Mtro. Mariano Martínez Díaz de León (mariano.martinez@utmatamoros.edu.mx).
-- **Jefa de Vinculación Empresarial y Educativa:** Mtra. Gladys Areli Medina (gladys.medina@utmatamoros.edu.mx).
-- **Directora de Apoyo Estudiantil (CAE):** Mtra. Aida Jesús Granados García (atencion.alumnos@utmatamoros.edu.mx).
-- **Director de Extensión Universitaria (Deporte, Cultura y Servicio Médico):** Lic. José Antonio Castañeda Pastor.
-- **Depto. de Servicios Escolares:** Lic. María de Jesús Lara (servicios.escolares@utmatamoros.edu.mx).
-- **Depto. de Tutorías y Asesorías:** Lic. Clara Iveth Cantú Almanza.
-- **Depto. de Gestión Académica:** Ing. Vania Alejandra Bañuelos Castorena.
-- **Depto. de Investigación, Desarrollo Docente e Innovación:** Ing. Dhelma Flores Ordaz.
-- **Coordinación de Estadías:** Ing. Irlanda Mata Gallegos.
-
-### B. Pagos de Cuatrimestre y Finanzas (Ventanilla Cobros OPD Tamaulipas)
-- **Portal web de cobro oficial:** https://finanzas.tamaulipas.gob.mx/pago-de-contribuciones/cobro-opd.php
-- **Instrucciones de registro de pago:**
-  1. Ingresar a la página de Cobro OPD.
-  2. Seleccionar "UNIVERSIDAD TECNOLOGICA DE MATAMOROS" y luego "REGISTRAR PAGO".
-  3. Llenar los datos personales. Si no cuenta con R.F.C., ingresar los primeros 10 dígitos de la CURP.
-- **Cuotas oficiales cuatrimestrales vigentes:**
-  - TSU Periodo Cuatrimestral: $1,900.00 MXN (Con Beca al 50%: $950.00 MXN).
-  - TSU Lengua Inglesa (Carreras Bilingües): $2,500.00 MXN (Con Beca al 50%: $1,250.00 MXN).
-  - Ingeniería / Licenciatura: $2,500.00 MXN (Con Beca al 50%: $1,250.00 MXN).
-- **Métodos de pago aceptados:** Ventanilla Bancaria (Bancomer, Banorte, HSBC, Santander, Citibanamex, Scotiabank, Telecom, Tiendas OXXO / conveniencia) o Pago en Línea (Tarjeta de crédito, débito o transferencia).
-- **NOTA CRÍTICA FINANZAS:** Los pagos tardan de 2 a 3 días hábiles en reflejarse en el sistema del SII UTM.
-- **Cartera Vencida:** Si el alumno tiene cualquier adeudo o pago pendiente, el sistema no le permitirá reinscribirse al siguiente periodo cuatrimestral.
-
-### C. Trámite de Constancias y Titulación en Servicios Escolares
-- **Pasos para solicitar Constancia de Estudios o Historial Académico:**
-  1. Realizar el pago en Finanzas Tamaulipas (Cobro OPD).
-  2. Enviar el comprobante de pago en PDF al correo oficial: servicios.escolares@utmatamoros.edu.mx.
-  3. Especificar en el asunto y cuerpo el motivo exacto del trámite (beca, trabajo, seguro médico IMSS, trámite legal, etc.).
-  4. Tiempo de entrega: 24 horas hábiles tras la verificación por Servicios Escolares.
-- **Normativa Estricta:** Todo trámite en Servicios Escolares o Soporte Técnico DEBE realizarse exclusivamente desde el correo institucional del estudiante (@utmatamoros.edu.mx).
-- **Trámite de Cédula Profesional:** Es un trámite 100% personal ante la SEP/DGP tras recibir el título profesional. Requisito indispensable: tener vigente la e.firma del SAT.
-
-### D. Centro de Atención a Estudiantes (CAE) y Dirección de Apoyo Estudiantil
-- **Ubicación:** Interior del módulo de Vinculación / Rectoría Planta Baja.
-- **Horario y Contacto:** Lunes a viernes de 8:30 am a 8:30 pm | atencion.alumnos@utmatamoros.edu.mx.
-- **Servicios Principales:**
-  - **Credenciales Estudiantiles:** Tramitación, toma de foto institucional, vigencias, y registro obligatorio del NSS (Número de Seguridad Social del IMSS) en la plataforma EDI.
-  - **Becas Estudiantiles:** Asesoría y recepción de expedientes de becas institucionales y gubernamentales como la "Beca Futuro Tamaulipas (ITABEC)". Para esta beca el alumno debe registrarse en https://sistemasiceet.tamaulipas.gob.mx/becas/futurotamaulipas/ y presentar cuenta bancaria BBVA a nombre del estudiante (o padre/tutor en menores de edad).
-  - **Papelería Escolar:** Servicio de fotocopias, impresiones blanco/negro y color, escaneo de documentos y artículos de papelería en el campus.
-
-### E. Transporte Escolar Universitario UTM (Ventanilla Finanzas Módulo 1 Planta Alta)
-- **Rutas de Transporte en Matamoros:** Sendero Matamoros (Soriana Patio), Super Colchones y Periférico, Soriana Lauro Villar, Las Brisas (Rotonda), Av. del Niño (Chedraui), Presidentes (OXXO), Soriana Laguneta, Fracc. Canadá (OXXO).
-- **Rutas de Transporte en Valle Hermoso:** Lucio Blanco, Poblado Anáhuac, Poblado Control, Valle Hermoso Plaza Principal.
-- **Adquisición:** Los boletos de transporte oficial se adquieren de forma anticipada en la ventanilla del Área de Finanzas (Módulo 1, Planta Alta).
-
-### F. Investigación, Innovación y Estadías Académicas
-- **Depto. de Investigación y Desarrollo Docente:** Apoya la participación del alumnado en ferias de ciencias, certámenes de innovación tecnológica (estatales e internacionales) y estadías de investigación en laboratorios.
-- **Estadías en la Industria:** Es el último paso formativo del TSU e Ingeniería, coordinado por Enlace Académico y Vinculación para situar al alumno en una empresa afín a su especialidad.
-
-### G. Extensión Universitaria (Deportes, Cultura y Salud)
-- La UTM cuenta con servicio médico escolar, atención psicológica gratuita y representación en torneos deportivos (CONADDE y Panamericanos en Halterofilia, Lucha Universitaria, Fútbol, etc.) y talleres culturales. Contacto e informes en la Dirección de Extensión Universitaria.
-
+## 11. IDENTIDAD DEL ASISTENTE Y AUTORÍA (REGLA DE SECRETO IA)
+*Instrucción confidencial y estricta para la IA: Solo responder esta información si el usuario pregunta de manera directa "¿Quién te creó?", "¿Quién te programó?" o "¿Quién desarrolló este sistema/asistente?".*
+- **Desarrollo:** Departamento de Sistemas e Infraestructura TI de la Universidad Tecnológica de Matamoros.
+- **Identidad:** Asistente Inteligente de Soporte UTM, motor impulsado por LLM local con integración automatizada a Microsoft Graph API y Entra ID para la atención ininterrumpida 24/7 de la comunidad universitaria.
