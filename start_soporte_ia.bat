@@ -24,6 +24,8 @@ echo [2/3] Verificando entorno virtual e iniciando Servidor Web de Gestión...
 :: Iniciar FastAPI para gestión de tickets y verificación documental en puerto 8000
 if exist "venv\Scripts\python.exe" (
     start "UTM Web API" /MIN cmd /c "venv\Scripts\python.exe -m uvicorn main:app --port 8000"
+) else if exist "%USERPROFILE%\anaconda3\python.exe" (
+    start "UTM Web API" /MIN cmd /c "%USERPROFILE%\anaconda3\python.exe -m uvicorn main:app --port 8000"
 ) else (
     start "UTM Web API" /MIN cmd /c "python -m uvicorn main:app --port 8000"
 )
@@ -34,9 +36,11 @@ echo El sistema se encuentra en linea y monitoreando el buzon institucional.
 echo Presiona Ctrl+C en esta consola si deseas finalizar los servicios.
 echo ---------------------------------------------------
 
-:: Correr el orquestador en la consola principal
+:: Correr el orquestador en la consola principal con el intérprete moderno
 if exist "venv\Scripts\python.exe" (
     venv\Scripts\python.exe -u orchestrator.py
+) else if exist "%USERPROFILE%\anaconda3\python.exe" (
+    "%USERPROFILE%\anaconda3\python.exe" -u orchestrator.py
 ) else (
     python -u orchestrator.py
 )

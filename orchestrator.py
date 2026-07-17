@@ -32,7 +32,7 @@ CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 SUPPORT_EMAIL = os.getenv("SUPPORT_EMAIL")
 ADMIN_EMAIL = os.getenv("ADMIN_EMAIL")
 
-def is_student_email(email: str) -> bool:
+def is_student_email(email):
     """Valida si el correo pertenece a un estudiante basado en los patrones de la UTM."""
     email = email.lower().strip()
     if not email.endswith("@utmatamoros.edu.mx"):
@@ -86,7 +86,7 @@ def fetch_unread_emails(token):
         print(f"Error de red en fetch_unread_emails: {e}")
         return []
 
-def normalize_intent(raw_intent: str) -> str:
+def normalize_intent(raw_intent):
     """Normaliza el valor de intención para tolerar typos del modelo (ej. IGORAR→IGNORAR)."""
     if not raw_intent:
         return "INFORMACION"
@@ -690,7 +690,7 @@ def mark_as_read(token, message_id):
     except Exception as e:
         print(f"Error de red en mark_as_read: {e}")
 
-def generate_otp(sender: str) -> str:
+def generate_otp(sender):
     """Genera un código OTP de 6 dígitos vinculado al correo del remitente y almacenado en DB.
     SEGURIDAD: El OTP es válido por 10 minutos y queda registrado en la auditoría.
     Un Regex extrae la matrícula, pero NUNCA autoriza el reset por sí solo.
@@ -708,7 +708,7 @@ def generate_otp(sender: str) -> str:
     conn.close()
     return otp
 
-def verify_otp(sender: str, otp_attempt: str) -> bool:
+def verify_otp(sender, otp_attempt):
     """Valida el OTP ingresado contra el hash almacenado y verifica que no haya expirado."""
     otp_hash = hashlib.sha256(otp_attempt.strip().encode()).hexdigest()
     conn = sqlite3.connect(DB_NAME)
