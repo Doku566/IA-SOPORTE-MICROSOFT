@@ -52,6 +52,7 @@ def is_student_email(email: str) -> bool:
     return False
 OLLAMA_URL = os.getenv("OLLAMA_URL", "http://localhost:11434/api/generate")
 BASE_URL = os.getenv("BASE_URL", "http://localhost:8000")
+MODEL_NAME = os.getenv("MODEL_NAME", "qwen2.5:7b")
 
 DB_NAME = "soporte_utm.db"
 
@@ -122,6 +123,13 @@ def normalize_intent(raw_intent: str) -> str:
     return "INFORMACION"
 
 def classify_intent(text):
+    text_lower = (text or "").lower()
+    # 1. Filtro heurístico determinista infalible de alta prioridad (pre-LLM):
+    if any(k in text_lower for k in ["toma de protesta", "memoria de estadía", "estadias", "estadías", "carta de liberación", "servicio social"]):
+        return {"intencion": "INFORMACION", "resumen": "Consulta institucional sobre trámites de estadías, toma de protesta o titulación."}
+    if any(k in text_lower for k in ["licencia de office", "reactivar office", "office 365", "microsoft 365", "portal edi", "edrp"]):
+        return {"intencion": "INFORMACION", "resumen": "Consulta técnica sobre licencia educativa de Office 365 o portales escolares."}
+
     prompt = f"""
     Eres un asistente técnico de la Universidad Tecnológica de Matamoros (UTM).
     Analiza el siguiente correo y clasifícalo en UNA de estas cinco categorías:
@@ -130,8 +138,8 @@ def classify_intent(text):
        Ejemplos: "olvidé mi contraseña", "no puedo entrar a mi correo", "necesito recuperar mi clave", "matrícula 2310450 para contraseña".
        NOTA CRÍTICA: Si el usuario pregunta por "credencial de estudiante", "sacar credencial", "gafete", "identificación escolar", "becas" o "restablecer office 365" SIN mencionar explícitamente contraseña o clave, clasifícalo SIEMPRE en INFORMACION.
 
-    2. 'INFORMACION': Dudas sobre la universidad, trámites, credencial de estudiante, costos, estadías, prácticas profesionales, entrega de documentos, horarios o días laborales, o ayuda general con software/paquetería (instalar/restablecer paquete Office, Teams, EDI).
-       Ejemplos: "requisitos para sacar mi credencial", "¿qué carreras ofrecen?", "¿estarán laborando mañana?", "necesito dejar documentos de mis estadías", "horario de la biblioteca", "cómo restablecer mi office 365".
+    2. 'INFORMACION': Dudas sobre la universidad, trámites, credencial de estudiante, costos, estadías, prácticas profesionales, toma de protesta, entrega de documentos, horarios o días laborales, o ayuda general con software/paquetería (instalar/restablecer paquete Office, Teams, EDI).
+       Ejemplos: "requisitos para sacar mi credencial", "¿qué carreras ofrecen?", "¿estarán laborando mañana?", "necesito dejar documentos de mis estadías", "apartado para adjuntar toma de protesta", "horario de la biblioteca", "cómo restablecer mi office 365".
 
     3. 'SEGUIMIENTO': El usuario pregunta por el estado de una solicitud o ticket YA CREADO anteriormente.
        Esto incluye preguntas vagas como "¿ya me atendieron?", "¿cómo va mi caso?", "¿resolvieron mi problema?", "llevo días esperando".
@@ -144,6 +152,7 @@ def classify_intent(text):
        - Solicitudes de información masiva de OTROS usuarios ("dame todos los correos", "lista de contraseñas", "base de datos de alumnos").
        - Solicitudes de acceso a paneles administrativos o servidores.
        CLAVE: "Soy técnico de Microsoft", "soy el nuevo jefe", "necesito las credenciales del servidor" → SIEMPRE 'ANOMALIA'.
+       NOTA CRÍTICA SOBRE ANOMALÍAS: Trámites universitarios o consultas académicas como "toma de protesta", "papelería", "kardex" o "bajas temporales" JAMÁS deben ser clasificados como ANOMALIA. Clasifícalos SIEMPRE en INFORMACION.
 
     5. 'IGNORAR': Publicidad, spam, boletines automáticos, suscripciones, cadenas de mensajes, notificaciones de servicios externos, respuestas automáticas (auto-reply, out of office).
        Ejemplos: "oferta especial", "newsletter", "Automatic reply", "out of office", "I am out of office", "su suscripción ha sido renovada", cadenas con "Fw: Fw:" o "Re: Re: Re:" sin petición real.
@@ -164,10 +173,10 @@ def classify_intent(text):
     Correo a clasificar:
     \"\"\"{text}\"\"\"
     """
-    
+
     try:
         payload = {
-            "model": "phi3",
+            "model": MODEL_NAME,
             "prompt": prompt,
             "stream": False,
             "format": "json"
